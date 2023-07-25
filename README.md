@@ -3,4 +3,3 @@ Transformer-based models for video classification, drawing upon the recent succe
 
 # Video-Vision-Transformer Photo
 ![alt text](https://github.com/google-research/scenic/blob/main/scenic/projects/vivit/data/vivit.png?raw=true)
-![alt text](https://github.com/google-research/scenic/blob/main/scenic/projects/vivit/data/vivit.png?raw=true)
